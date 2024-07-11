@@ -1,8 +1,8 @@
 {
-  "name": "bigspring-light-astro",
+  "name": "tianze-light-astro",
   "version": "2.0.0",
   "description": "astro personal blog theme",
-  "author": "themefisher",
+  "author": "tianze",
   "license": "MIT",
   "scripts": {
     "dev": "astro dev",
